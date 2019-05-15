@@ -1,0 +1,15 @@
+{
+  "name": "buscador_onion",
+  "version": "1.0.0",
+  "description": "buscador de sites onion usando a api do darksearch.io",
+  "main": "buscador.js",
+  "dependencies": {
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rise",
+  "license": "ISC"
+}
