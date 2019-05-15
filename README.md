@@ -13,7 +13,7 @@ Para usar é simples, basta executar com o node e passar o termo relacionado e a
 
 $ node buscador.js hacking 1
 
-Onde, `hacking` é o termo que quero pesquisar, dai serão retornados sites relacionados a hacking e esse `1` é a página, posso também procurar por várias outras, página 1, 2, 3, 4 e assim por diante.das
+Onde, `hacking` é o termo que quero pesquisar, dai serão retornados sites relacionados a hacking e esse `1` é a página, posso também procurar por várias outras, página 1, 2, 3, 4 e assim por diante
 
 
 
