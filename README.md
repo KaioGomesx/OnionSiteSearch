@@ -5,7 +5,7 @@ Buscador de sites onion baseado em palavras relacionadas
 
 Para instalar é só clonar o repositório e instalar as dependências via NPM:
 
-$ git clone https://github.com/RIS33/BuscadorOnion && cd BuscadorOnion && npm install
+$ git clone https://github.com/RIS33/OnionSiteSearch && cd OnionSiteSearch && npm install
 
 # Modo de uso
 
