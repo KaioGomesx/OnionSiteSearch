@@ -1,4 +1,4 @@
-# BuscadorOnion
+# Onion Site Search
 Buscador de sites onion baseado em palavras relacionadas
 
 # Modo de Instação
