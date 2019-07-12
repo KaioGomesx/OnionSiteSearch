@@ -1,0 +1,28 @@
+{
+  "name": "onionsitesearch",
+  "version": "2.0.0",
+  "description": "Finder onion websites using DarkSearch API",
+  "main": "finder.js",
+  "scripts": {
+    "start": "node finder.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RIS33/OnionSiteSearch.git"
+  },
+  "keywords": [
+    "Onion",
+    "JavaScript",
+    "Coding",
+    "Finder"
+  ],
+  "author": "RIS33",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/RIS33/OnionSiteSearch/issues"
+  },
+  "homepage": "https://github.com/RIS33/OnionSiteSearch#readme",
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
