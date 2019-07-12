@@ -17,7 +17,7 @@ Enter the project directory and type `$ npm install` to install dependencies
 
 <h3>Running the script</h3>
 
-to run that script type `$ npm search.js linux` linux is the keyword in which we will look for sites related to it.
+to run this script `$ npm search.js linux` linux is the keyword in which we will look for sites related to it.
 
 <h3> Contact me </h3>
 
