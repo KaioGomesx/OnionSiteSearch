@@ -20,7 +20,6 @@ const main = async (query, page) => {
     console.log(`[*] Last page: ${last_page}\n`)
 
 	getUserInput.question('Next page ? (Y/n): ', (answer) => {
- 
   		if (answer.toUpperCase() === 'Y') {
   			page++
   		} else {
@@ -38,5 +37,6 @@ const main = async (query, page) => {
     process.exit(1)
   });
 }
+
 let [keyword, page] = process.argv.splice(2);
 main(keyword, page);
