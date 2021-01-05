@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/RIS33/OnionSiteSearch#readme",
   "dependencies": {
-    "axios": "^0.19.0"
+    "axios": "^0.21.1"
   }
 }
